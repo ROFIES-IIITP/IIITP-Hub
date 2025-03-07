@@ -2,6 +2,8 @@
 
 A **self-hosted** local network hub designed for students of our college, providing seamless access to essential resources, media, and system management tools.  
 
+>**NOTE:** Admin guidelines can be [here](./admin-guidelines.md)
+
 ## 🌐 Overview  
 IIITP Hub runs **exclusively on the college WiFi/LAN**, ensuring a **secure and fast** experience. It features a **role-based access system**, where students can browse study materials and media, while admins have extended control over services.  
 
@@ -27,7 +29,7 @@ IIITP Hub runs **exclusively on the college WiFi/LAN**, ensuring a **secure and 
 | 🐳 **Docker**    | ❌ No Access | ✅ Manage |  
 | 🏠 **Heimdall**  | 🔒 Limited | 🔑 Admin Mode |  
 
->**NOTE:** Admin guidelines can be [here](./admin-guidelines.md)
+
 
 ## 🚀 Usage  
 
